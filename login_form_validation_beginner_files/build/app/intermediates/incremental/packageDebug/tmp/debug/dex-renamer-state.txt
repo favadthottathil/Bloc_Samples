@@ -1,0 +1,4 @@
+#Mon Jan 22 23:41:10 IST 2024
+base.0=/home/user/Desktop/Bloc_patterns/login_form_validation_beginner_files/build/app/intermediates/dex/debug/mergeDexDebug/classes.dex
+renamed.0=classes.dex
+path.0=classes.dex
